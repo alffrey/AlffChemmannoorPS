@@ -1,4 +1,7 @@
 body {
     background-color: #7ba4cb;
     font-family: 'Roboto', sans-serif;
+    max-width: 50 rem;
+    min-width: 25 rem;
+    margin: auto;
 }
